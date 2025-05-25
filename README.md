@@ -1,4 +1,4 @@
 - *Hi! I'm Maria, a second year student at UBB*
 - I am currently knowledgeable in *Java, C#, Python, C/C++, SQL, Data Structures, Algorithms + more*
-- I'm always willing to work hard and persevere in my work
+- I'm always willing to work hard and persevere in my work, learning more and more along the way :)
 - *Email: albumaria23@gmail.com*
